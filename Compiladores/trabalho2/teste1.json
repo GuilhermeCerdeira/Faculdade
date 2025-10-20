@@ -1,0 +1,46 @@
+{
+    "agentCode": {
+      "ag11": "VeiculoAutonomo",
+      "beliefs": ["chegando_no_cruzamento"],
+      "goal": "atravessar_com_seguranca",
+      "plans": {
+          "p1_pedir_permissao": {
+              "trigger": "atravessar_com_seguranca",
+              "ctx": "chegando_no_cruzamento",
+              "body": [
+                  "A_Pedindo permissao para o Controle de Trafego.",
+                  "B_aguardando_sinal_verde"
+              ]
+          },
+          "p2_cruzar": {
+              "trigger": "sinal_verde_recebido",
+              "ctx": "aguardando_sinal_verde",
+              "body": [
+                  "A_Sinal verde! Cruzando a via.",
+                  "B_cruzamento_concluido"
+              ]
+          }
+      },
+      "ag12": "ControleDeTrafego",
+      "beliefs": ["cruzamento_ocupado"],
+      "goal": "gerenciar_fluxo",
+      "plans": {
+          "p1_verificar": {
+              "trigger": "gerenciar_fluxo",
+              "ctx": "cruzamento_ocupado",
+              "body": [
+                  "A_Verificando o status do cruzamento...",
+                  "A_Cruzamento liberado.",
+                  "G_enviar_sinal_verde"
+              ]
+          },
+          "p2_sinalizar": {
+              "trigger": "enviar_sinal_verde",
+              "body": [
+                  "A_Enviando sinal verde para o proximo veiculo.",
+                  "B_sinal_verde_enviado"
+              ]
+          }
+      }
+    }
+  }

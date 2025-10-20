@@ -1,0 +1,19 @@
+Tabela hash com enderecamento aberto (sondagem quadratica):
+1 EditorTexto PRONTO 3
+1 EditorTexto PRONTO 3
+
+Tabela hash com enderecamento aberto (sondagem quadratica):
+1 EditorTexto PRONTO 3
+1 EditorTexto PRONTO 3
+
+Tabela hash com enderecamento aberto (sondagem quadratica):
+1 EditorTexto PRONTO 3
+1 EditorTexto PRONTO 3
+
+Tabela hash com enderecamento aberto (sondagem quadratica):
+
+Tabela hash com enderecamento aberto (sondagem quadratica):
+
+Tabela hash com enderecamento aberto (sondagem quadratica):
+
+Tempo de insercao da hash com enderecamento aberto (sondagem quadratica): 0.00000000 ms.

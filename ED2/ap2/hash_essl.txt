@@ -1,0 +1,23 @@
+Tabela hash com encadeamento separado (sondagem linear):
+1 EditorTexto PRONTO 3
+3 NavegadorWeb BLOQUEADO 6
+
+Tabela hash com encadeamento separado (sondagem linear):
+1 EditorTexto PRONTO 3
+3 NavegadorWeb BLOQUEADO 6
+
+Tabela hash com encadeamento separado (sondagem linear):
+1 EditorTexto PRONTO 3
+3 NavegadorWeb PRONTO 6
+
+Tabela hash com encadeamento separado (sondagem linear):
+3 NavegadorWeb PRONTO 6
+
+Tabela hash com encadeamento separado (sondagem linear):
+3 NavegadorWeb EXECUTANDO 6
+
+Tabela hash com encadeamento separado (sondagem linear):
+3 NavegadorWeb EXECUTANDO 6
+4 Antivirus BLOQUEADO 2
+
+Tempo de insercao da hash com encadeamento separado (sondagem linear): 0.00000000 ms.

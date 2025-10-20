@@ -1,0 +1,47 @@
+InserirAVL 1 EditorTexto 10 PRONTO
+InserirAVL 2 Compilador 5 PRONTO
+InserirAVL 3 NavegadorWeb 218 PRONTO
+InserirAVL 232321 Ofheio 28 BLOQUEADO
+InserirAVL 5 Ofheio 0 PRONTO
+InserirAVL 21 Ofheio 82 PRONTO
+InserirAVL 15 Ofheio 2 PRONTO
+ListarAVL
+TerminarAVL 2
+TerminarAVL 22
+ListarAVL
+TerminarAVL 21
+ListarAVL
+TerminarAVL 5
+TerminarAVL 15
+ListarAVL
+AlterarHeap  1 8
+AlterarHeap  5 10
+AlterarHeap 3 6
+AlterarHeap 1 3
+ListarHeap
+RemoverHeap
+RemoverHeap
+RemoverHeap
+RemoverHeap
+RemoverHeap
+RemoverHeap
+ListarHeap
+BloquearHash 3
+ListarHash PRONTO
+ListarHash BLOQUEADO
+DesbloquearHash 3
+ListarHash PRONTO
+RemoverHash 1
+ListarHash PRONTO
+Executar 3
+ListarHash EXECUCAO
+InserirAVL 4 Antivirus 4 PRONTO
+AlterarHeap 4 4
+ListarAVL
+AlterarHeap 4 2
+RemoverHeap
+BloquearHash 4
+ListarHash BLOQUEADO
+Terminar 3 NavegadorWeb
+Terminar 4 Antivirus
+Encerrar

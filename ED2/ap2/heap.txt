@@ -1,0 +1,7 @@
+Heap: 
+232321 Ofheio BLOQUEADO 28
+3 NavegadorWeb PRONTO 6
+1 EditorTexto PRONTO 3
+
+Heap vazio!
+

@@ -1,0 +1,35 @@
+Arvore AVL:
+1 EditorTexto PRONTO 10
+2 Compilador PRONTO 5
+3 NavegadorWeb PRONTO 218
+5 Ofheio PRONTO 0
+15 Ofheio PRONTO 2
+21 Ofheio PRONTO 82
+232321 Ofheio BLOQUEADO 28
+
+Arvore AVL:
+1 EditorTexto PRONTO 10
+3 NavegadorWeb PRONTO 218
+5 Ofheio PRONTO 0
+15 Ofheio PRONTO 2
+21 Ofheio PRONTO 82
+232321 Ofheio BLOQUEADO 28
+
+Arvore AVL:
+1 EditorTexto PRONTO 10
+3 NavegadorWeb PRONTO 218
+5 Ofheio PRONTO 0
+15 Ofheio PRONTO 2
+232321 Ofheio BLOQUEADO 28
+
+Arvore AVL:
+1 EditorTexto PRONTO 10
+3 NavegadorWeb PRONTO 218
+232321 Ofheio BLOQUEADO 28
+
+Arvore AVL:
+1 EditorTexto PRONTO 3
+3 NavegadorWeb EXECUTANDO 6
+4 Antivirus PRONTO 4
+232321 Ofheio BLOQUEADO 28
+

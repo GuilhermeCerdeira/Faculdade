@@ -1,0 +1,11 @@
+Processo criado com sucesso
+Processo inserido na AVL com sucesso
+Processo inserido no heap com sucesso
+Processo 10 inserido no hash com sucesso
+Arvore AVL:
+10 aids PRONTO 10
+
+Encerrando o sistema.
+Tempo de insercao da hash com enderecamento aberto (sondagem linear): 0.00000000 ms.
+Tempo de insercao da hash com enderecamento aberto (sondagem quadratica): 0.00000000 ms.
+Tempo de insercao da hash com encadeamento separado (sondagem linear): 0.00000000 ms.

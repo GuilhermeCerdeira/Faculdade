@@ -1,0 +1,18 @@
+{
+    "agentCode": {
+      "ag7": "robo_assistente_2000",
+      "beliefs": ["hora do almoco"],
+      "goal": "preparar refeicao para 2 pessoas",
+      "plans": {
+          "p1": {
+              "trigger": "preparar refeicao para 2 pessoas",
+              "ctx": "hora do almoco",
+              "body": ["A_verificar ingredientes na geladeira", "G_ligar fogao a 180 graus"]
+          },
+          "p2": {
+              "trigger": "ligar fogao a 180 graus",
+              "body": ["A_assar por 30 minutos"]
+          }
+      }
+    }
+}

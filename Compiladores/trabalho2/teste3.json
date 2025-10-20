@@ -1,0 +1,41 @@
+{
+    "agentCode": {
+      "ag8": "RoboAspirador",
+      "beliefs": ["na_base_de_carregamento", "ambiente_sujo"],
+      "goal": "iniciar_ciclo_de_limpeza",
+      "plans": {
+          "p1_iniciar": {
+              "trigger": "iniciar_ciclo_de_limpeza",
+              "ctx": "ambiente_sujo",
+              "body": [
+                  "A_Saindo da base.",
+                  "B_bateria_cheia",
+                  "G_procurar_sujeira"
+              ]
+          },
+          "p2_encontrar": {
+              "trigger": "procurar_sujeira",
+              "ctx": "bateria_cheia",
+              "body": [
+                  "A_Sujeira encontrada na posicao (2,3).",
+                  "G_limpar_local"
+              ]
+          },
+          "p3_limpar": {
+              "trigger": "limpar_local",
+              "body": [
+                  "A_Aspirando...",
+                  "A_Local limpo.",
+                  "G_verificar_fim_da_limpeza"
+              ]
+          },
+          "p4_finalizar": {
+              "trigger": "verificar_fim_da_limpeza",
+              "body": [
+                  "A_Ambiente limpo. Retornando para a base.",
+                  "B_ambiente_limpo"
+              ]
+          }
+      }
+    }
+  }

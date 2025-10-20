@@ -1,0 +1,18 @@
+Tabela hash com enderecamento aberto (sondagem linear):
+1 EditorTexto PRONTO 3
+
+Tabela hash com enderecamento aberto (sondagem linear):
+1 EditorTexto PRONTO 3
+
+Tabela hash com enderecamento aberto (sondagem linear):
+1 EditorTexto PRONTO 3
+3 NavegadorWeb PRONTO 6
+
+Tabela hash com enderecamento aberto (sondagem linear):
+3 NavegadorWeb PRONTO 6
+
+Tabela hash com enderecamento aberto (sondagem linear):
+
+Tabela hash com enderecamento aberto (sondagem linear):
+
+Tempo de insercao da hash com enderecamento aberto (sondagem linear): 0.00000000 ms.
