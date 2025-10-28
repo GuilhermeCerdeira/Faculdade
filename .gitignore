@@ -12,3 +12,4 @@ SistemasDistribuidos/entregaparcial1/lib/
 # Ignorar banco de dados
 SistemasDistribuidos/entregaparcial1/data/
 *.db
+*:zone.identifier
