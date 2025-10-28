@@ -13,3 +13,5 @@ SistemasDistribuidos/entregaparcial1/lib/
 SistemasDistribuidos/entregaparcial1/data/
 *.db
 *:zone.identifier
+*:Zone.Identifier
+*:zone.identifier
