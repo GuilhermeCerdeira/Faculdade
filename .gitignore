@@ -1,0 +1,14 @@
+# Ignorar o Kit de Desenvolvimento Java
+SistemasDistribuidos/Oracle_JDK-24/
+
+# Ignorar arquivos compilados
+SistemasDistribuidos/entregaparcial1/bin/
+*.class
+
+# Ignorar bibliotecas
+SistemasDistribuidos/entregaparcial1/lib/
+*.jar
+
+# Ignorar banco de dados
+SistemasDistribuidos/entregaparcial1/data/
+*.db

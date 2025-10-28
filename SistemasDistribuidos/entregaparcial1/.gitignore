@@ -1,0 +1,14 @@
+# Ignorar arquivos compilados (Java)
+bin/
+*.class
+
+# Ignorar bibliotecas
+lib/
+*.jar
+
+# Ignorar bancos de dados e arquivos locais
+data/
+*.db
+
+# Ignorar o Kit de Desenvolvimento Java
+SistemasDistribuidos/Oracle_JDK-24/
